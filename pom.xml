@@ -14,7 +14,7 @@
   <properties>
     <mvn.golang.go.version>1.10.2</mvn.golang.go.version>
     <mvn.golang.get.packages.file>${basedir}${file.separator}packages.txt</mvn.golang.get.packages.file>
-    <go.wrapper.plugin.version>2.2.0</go.wrapper.plugin.version>
+    <go.wrapper.plugin.version>2.3.9</go.wrapper.plugin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
     <mvn.version>3.0</mvn.version>
